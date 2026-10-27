@@ -1,4 +1,4 @@
-people = ["Peter", "Jane" , "Joe" , "Onyango"]
+people = ["Peter", "Jane" , "Joe" , "Onyango" , "Yeshu"]
 scores = [67,89,10,67,74,12,99]
 
 # print(people[0])
@@ -14,5 +14,5 @@ scores = [67,89,10,67,74,12,99]
 people.sort()
 scores.sort(reverse=True)
 
-print(people)
-print(scores)
+# print(people)
+# print(scores)
