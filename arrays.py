@@ -16,3 +16,10 @@ scores.sort(reverse=True)
 
 # print(people)
 # print(scores)
+
+
+scores.sort()
+#slicing
+# print(scores[-3:])
+# print(scores[0:3])
+# print(scores[3:5])
